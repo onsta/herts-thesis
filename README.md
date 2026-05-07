@@ -6,7 +6,8 @@
 - Contact supervisor Imy Khan i.khan9@herts.ac.uk
 - Contact Wei Ji about her questions w.1.ji@herts.ac.uk
 - Set up initial project skeleton in Jupyter notebook
-- Have a first SCP meeting and submit it 
+- Have a first SCP meeting and submit it
+- IPP understand the problem domain and the methodology (similar research was it done... how big is the problem, what data do we have)
 
 ### Doing
 
@@ -15,10 +16,15 @@
 ### W8ing
 - Setup meeting with supervisor as part of SCP (Supervisor Contact Points)
 - Write log files x 6 (SCP one per month until November)
+- Figure out with the legal team from Herts if I can publish legal MCP, acknowledge
+- Be careful about data and get permissions from the source, when publishing from MCP, might need permission from ethiccs
 
 ### Done
 
-## Resources 
+## Resources (100 papers is a typical for master level)
+- https://www.deeplearning.ai/courses/agentic-ai/
+- https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/
+- TODO there was a Czech guy doing something with Mr. Slerka
 
 ## Contacts
 - Module leader w.1.ji@herts.ac.uk
@@ -43,3 +49,6 @@ What are your legal bases to retrieve information? Which laws? There are so many
 Any similar research/project in literature? 
 
 These are the questions you will need to address gradually.  
+
+
+### Feedback IPI 
