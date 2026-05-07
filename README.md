@@ -7,7 +7,7 @@
 - Contact Wei Ji about her questions w.1.ji@herts.ac.uk
 - Set up initial project skeleton in Jupyter notebook
 - Have a first SCP meeting and submit it
-- IPP understand the problem domain and the methodology (similar research was it done... how big is the problem, what data do we have)
+- IPP understand the problem domain and the methodology (similar research was it done... how big is the problem, what data do we have), they are looking if there is a solid solution that is achievable, can I go deep and amount of practical work, for the IPP 20 resources is enough 
 
 ### Doing
 
@@ -24,7 +24,7 @@
 ## Resources (100 papers is a typical for master level)
 - https://www.deeplearning.ai/courses/agentic-ai/
 - https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/
-- TODO there was a Czech guy doing something with Mr. Slerka
+- From Retrieval to Reasoning: Leveraging Agentic AI in Czech Supreme Court Case Law Research https://dspace.cuni.cz/handle/20.500.11956/203298
 
 ## Contacts
 - Module leader w.1.ji@herts.ac.uk
