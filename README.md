@@ -3,13 +3,13 @@
 ## Project Management
 
 ### TODO
-- Contact supervisor Imy Khan i.khan9@herts.ac.uk
 - Contact Wei Ji about her questions w.1.ji@herts.ac.uk
 - Set up initial project skeleton in Jupyter notebook
 - Have a first SCP meeting and submit it
 - IPP understand the problem domain and the methodology (similar research was it done... how big is the problem, what data do we have), they are looking if there is a solid solution that is achievable, can I go deep and amount of practical work, for the IPP 20 resources is enough 
 
 ### Doing
+- Contact supervisor Imy Khan i.khan9@herts.ac.uk
 
 ### Questions
 
