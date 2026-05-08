@@ -20,11 +20,14 @@
 - Be careful about data and get permissions from the source, when publishing from MCP, might need permission from ethiccs
 
 ### Done
+- Submit IPI
 
 ## Resources (100 papers is a typical for master level)
 - https://www.deeplearning.ai/courses/agentic-ai/
 - https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/
 - From Retrieval to Reasoning: Leveraging Agentic AI in Czech Supreme Court Case Law Research https://dspace.cuni.cz/handle/20.500.11956/203298
+- Harvey benchmark (funny enough they are doing similar thing I want to do) https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark
+- Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems
 
 ## Contacts
 - Module leader w.1.ji@herts.ac.uk
