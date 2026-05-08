@@ -28,6 +28,8 @@
 - From Retrieval to Reasoning: Leveraging Agentic AI in Czech Supreme Court Case Law Research https://dspace.cuni.cz/handle/20.500.11956/203298
 - Harvey benchmark (funny enough they are doing similar thing I want to do) https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark
 - Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems
+- LLM as a judge https://learning.oreilly.com/library/view/evals-for-ai/9798341660717/ch05.html#id108
+- 
 
 ## Contacts
 - Module leader w.1.ji@herts.ac.uk
