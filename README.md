@@ -29,7 +29,15 @@
 - Harvey benchmark (funny enough they are doing similar thing I want to do) https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark
 - Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems
 - LLM as a judge https://learning.oreilly.com/library/view/evals-for-ai/9798341660717/ch05.html#id108
-- 
+
+
+## Favourite quotes to incorporate
+Herakleitos
+- **(panta rhei)** — "Everything flows." It's about how nothing stays the same; everything is in constant change.
+Alice in Wonderland
+- You have to run as fast as you can
+Yogi Berra
+- It has hard to predict especially the future
 
 ## Contacts
 - Module leader w.1.ji@herts.ac.uk
