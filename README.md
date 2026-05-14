@@ -29,6 +29,7 @@
 - Harvey benchmark (funny enough they are doing similar thing I want to do) https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark
 - Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems
 - LLM as a judge https://learning.oreilly.com/library/view/evals-for-ai/9798341660717/ch05.html#id108
+- Info about Harvey's evals https://www.linkedin.com/pulse/trust-your-harness-michael-kennedy-h1ehe/?trackingId=3el7v2AtPD8XgHtY7rqYqg%3D%3D
 
 
 ## Favourite quotes to incorporate
